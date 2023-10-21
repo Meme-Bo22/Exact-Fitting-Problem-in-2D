@@ -1,0 +1,10 @@
+g++ test.cpp -std=c++11 -DWITHOUT_NUMPY -I/usr/include/python3.10 -lpython3.10
+
+
+
+
+${workspaceFolder}/**
+C:\Users\austi\AppData\Local\Programs\Python\Python311
+C:/Users/austi/AppData/Local/Programs/Python/Python311/include
+C:\Users\austi\AppData\Local\Programs\Python\Python311\Lib\site-packages\numpy\
+C:/Users/austi/AppData/Local/Programs/Python/Python311/Lib/site-packages/numpy/core/include
