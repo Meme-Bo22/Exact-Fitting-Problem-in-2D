@@ -1,7 +1,8 @@
 g++ test.cpp -std=c++11 -DWITHOUT_NUMPY -I/usr/include/python3.10 -lpython3.10
 
 
-
+Youtube playlist:
+https://youtube.com/playlist?list=PL4hH-edGpb6vfHxwYjYMhCeUPQr-xkE5N&si=cYhTqOj7Dlkz4cws
 
 ${workspaceFolder}/**
 C:\Users\austi\AppData\Local\Programs\Python\Python311
